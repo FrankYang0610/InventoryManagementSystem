@@ -6,7 +6,7 @@ Yang Xikun, Jin Qinhao, Jin Yixiao and Ren Yixiao.
 
 ---
 
-This project is inventory management system. Users are allowed in **creating products, editing products, deleting products and making transactions on their products**; moreover, they're able to load or save their inventory data in SQL and JSON forms, as well as export the data to PDF reports. 
+This project is inventory management system. Users are allowed in **adding new products, editing products, deleting products and making transactions on their products**; moreover, they're able to load or save their inventory data in SQL and JSON forms, as well as export the data to PDF reports. 
 
 ---
 
