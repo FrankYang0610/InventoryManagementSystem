@@ -12,11 +12,10 @@ This project is an **inventory management system** that enables users to **add, 
 
 We did this project in PyCharm IDE, and the libraries are including `PyQt5`, `reportlab.platypus` and `sqlite3`. 
 
----
-
-The project is a single-filed program, which is, `main.py`. The reports and test resources are also attached here. 
+The project is a single-filed program, which is, `main.py`. The reports and test resources are also attached. 
 
 ---
 
 Created on Nov 27, 2023
+
 Edited on Apr 22, 2024
